@@ -16,7 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Duwianjar&theme=dark&hide_border=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Duwianjar&theme=radical&no-frame=false&no-bg=true&margin-w=10&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Duwianjar&theme=radical&no-frame=false&no-bg=true&margin-w=1&column=9" />
 </p>
 
 
