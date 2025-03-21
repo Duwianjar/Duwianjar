@@ -1,8 +1,12 @@
-## <div align="center"><u>👋🏻 Hi, I'm Duwi Anjar Ari Wibowo</u></div>  
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Duwi Anjar Ari Wibowo" /></a>
-</p>
+<div align="center">
+    <h1 style="font-family: 'Poppins', sans-serif; font-size: 36px; font-weight: bold;">
+        <span style="color: #FF5733;">👋🏻 Hi,</span> 
+        <span style="color: #33A8FF;">I'm</span> 
+        <span style="color: #28A745;">Duwi Anjar</span> 
+        <span style="color: #FFC107;">Ari Wibowo</span>
+    </h1>
+</div>
+
 ### <div align="center">🚀 Fullstack Developer 💻 </div>
 
 <div align="center">
