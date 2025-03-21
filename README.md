@@ -15,7 +15,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Duwianjar&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Duwianjar&theme=dark&hide_border=true)
 
-![](https://github-profile-trophy.vercel.app/?username=Duwianjar&theme=radical&no-frame=false&no-bg=true&margin-w=3)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Duwianjar&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
 
 </div>
 
