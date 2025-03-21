@@ -1,7 +1,7 @@
 <div align="center">
     <h1 style="font-family: 'Poppins', sans-serif; font-size: 36px; font-weight: bold;">
         <span style="color: #FF5733;">👋🏻 Hi,</span> 
-        <span style="color: #33A8FF;">I'm</span> 
+        <span style="color: blue !Important;">I'm</span> 
         <span style="color: #28A745;">Duwi Anjar</span> 
         <span style="color: #FFC107;">Ari Wibowo</span>
     </h1>
